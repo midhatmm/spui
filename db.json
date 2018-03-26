@@ -20,20 +20,7 @@
             "StartDate": "01/01/2018",
             "EndDate": "12/01/2020"
         },
-        {
-            "id": 4,
-            "organization": "QRS Corp.",
-            "ProgramName": "Weekly Program 1",
-            "StartDate": "01/01/2018",
-            "EndDate": "06/08/2018"
-        },
-        {
-            "id": 5,
-            "organization": "KLM Organization",
-            "ProgramName": "Daily Program",
-            "StartDate": "03/01/2018",
-            "WeekDate": "11/30/2018"
-        }
+        
     ],
     "programs_2": [{
             "id": 1,
